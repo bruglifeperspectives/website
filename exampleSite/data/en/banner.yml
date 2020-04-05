@@ -1,12 +1,13 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: ''
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: BrugLife Perspectives; a different perspective.
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: Street Style photography, with a heavy focus on urban perspectives. Bringing
+    out the beauty that surrounds us everyday. Nontraditional portrait work is also
+    available.
   button:
     enable: true
     label: Explore Us
