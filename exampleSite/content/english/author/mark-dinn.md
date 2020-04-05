@@ -1,5 +1,5 @@
 ---
-title: Marchus Bruggom
+title: Marcus Bruggom
 image: ''
 email: bruggom@gmail.com
 social:
