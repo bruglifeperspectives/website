@@ -26,7 +26,7 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
+  path: exampleSite/data
   label: Homepage
   create: all
   match: "**/*"
