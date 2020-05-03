@@ -3,10 +3,11 @@ banner:
   enable : true
   title : "I provide"
   animated_text:
-    - "Design solutions."
-    - "Creative Ideas."
-    - "Professional Content."
-  content : "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain <br>was born and I will give you a complete account of the system"
+    - "Architectural Photography."
+    - "Individual and Family Portraits."
+    - "Professional Headshots."
+    - "Custom Photography."
+  content : "Details**"
 
 ###################### Portfolio ######################
 portfolio:
