@@ -78,7 +78,7 @@ preloader = "" # use png, jpg, svg or gif format
 
 # google map
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBPBdhkm8xHAMFnFmy5xnnvz9nI2ztasck"
 map_latitude = "41.5868"
 map_longitude = "93.6250"
