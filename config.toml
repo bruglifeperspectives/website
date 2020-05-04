@@ -85,10 +85,10 @@ map_longitude = "93.6250"
 map_marker = "images/marker.png"
 
 # social site
-[params.social]
+[[params.social]]
 icon = "ti-facebook"
 URL = "https://www.facebook.com/Bruglifeperspectives"
 
-[params.social]
+[[params.social]]
 icon = "ti-instagram"
-URL = "https://www.instagram.com/bruglifeperspectives/"
+URL = "https://www.instagram.com/bruglifeperspectives"
