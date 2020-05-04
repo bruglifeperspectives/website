@@ -69,7 +69,7 @@ google_analitycs_id = ""
 # contact form action 
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "Copyrighht &copy; 2020 a theme by [Bruglife Perspectives](https://www.bruglifeperspectives.com)"
+copyright = "Copyrighht &copy; 2020 Bruglife Perspectives"
 
 # preloader
 [params.preloader]
@@ -79,9 +79,9 @@ preloader = "" # use png, jpg, svg or gif format
 # google map
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBPBdhkm8xHAMFnFmy5xnnvz9nI2ztasck"
+map_latitude = "41.5868"
+map_longitude = "93.6250"
 map_marker = "images/marker.png"
 
 # social site
