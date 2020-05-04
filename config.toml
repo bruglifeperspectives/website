@@ -56,7 +56,7 @@ weight = 3
 # default parameters
 [params]
 home = "Home"
-logo = "images/logo.png"
+logo = "images/marcus_logo.svg"
 # contact info
 mobile = "712-240-2517"
 email = "bruggom@gmail.com"
