@@ -15,10 +15,9 @@ portfolio:
 
 ###################### Service ########################
 service:
-  enable : true
+  enable : false
   title : "Core Services."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam ipsa quia hic
-          odit a sit laboriosam voluptatem in, blanditiis."
+  content : "Providing unique photograph adventures specializing in non-traditional portraiture and architectural perspectives."
   service_item:
     # service item loop
     - name : "Web Development"
